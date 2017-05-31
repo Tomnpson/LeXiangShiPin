@@ -2,7 +2,7 @@
 
 <h3 align="center">乐享视频设计思路及原型</h3>
 <p align="center">
-  我是如何通过MindManager整理思路的
+  点击设计思路进入MindMinager导图下载页
 </p>
 <p align="center">
   <a href="http://note.youdao.com/noteshare?id=506604db6063b813e3198b420a036837">
