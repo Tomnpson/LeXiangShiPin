@@ -13,10 +13,21 @@
   </a>
 </p>
 
-- [Summary](#summary)
+- [设计之前因后果](#设计之前因后果)
 
-# Summary
+# 设计之前因后果
 
-The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
+自从认识互联网以来，就对互联网充满热忱。但是作为一名非IT出身，又不想从事市场或运营的人来说，大概有两种出路打破行业壁垒，进入互联网行业。
 
-It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS. The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc., but specifically chosen to meet the following criteria.
+1. 有针对性地朝着一个方向努力，学习有关的语言，如Java、Python以及前端、全栈或者是iOS 10开发等，然后做出一个作品，看看有没有企业缺少这方面的人才，能不能打破行业之间的壁垒，加入互联网大军。
+2. 学习一些市场或者商务的东西，从市场或运营做起，积累互联网方面的工作资历后，再换个感兴趣的职位。换职位后，再继续提升有关方面的工作。
+
+但是我本人是有点强迫症的，总是希望追求完美。首先，我本人佩服技术，但是对互联网技术并无多大兴趣，因为我也学了一点语言吧，觉得程序语言相对英语来说就是记得少点，用处多点，但还是要记住大量语法或者是函数等。所以，就我而言，我虽佩服技术，也稍微懂一点点这方面的东西，但如果把它作为一生的事来干，我觉得我是受不了的。
+
+我是很喜欢数学的，然后对英文也没多大兴趣。但我知道起码阅读英文不能有问题，有句话叫“师夷长技以制夷”，我需要阅读英文的资料来提高自己，进阶自己，所以即使讨厌英语也是花了时间去学习英文。我喜欢数学，正是因为喜欢它的连贯性和一致性，喜欢它的逻辑性和可推导性。
+
+人生如一塘池水，如果不往里面注入活力，就会变成一滩死水。找到一份感兴趣而且有动力去做下去的事很不容易，需要经历种种困境，才能发现自己真正想要的是什么。有的人为钱去做事，有的人为名去做事，有的人为权去做事。我希望自己能找到一份真正感兴趣，然后收入也不错的工作做下去，这样一辈子下去应该不会后悔。
+
+我对互联网很感兴趣，然后自己虽然佩服技术但并不想做技术，自己虽然很怕寂寞但也不想做市场，自己虽然迷恋数据但也不想做运营。这么按照排除法来排除剩下的可供选择的已经不多了。有些对出身要求很高，然后我个人而言也不是十分感兴趣的岗位也可排除在外，剩下的岗位只剩一个产品岗了。
+
+于是，我就去了解了产品岗的情况，看了一些书，从一些视频中提炼了一些想法，我觉得自己对这个很感兴趣的，而且可以保持斗志去研究这个东西。因为产品岗涉及的东西比较多，而我个人很喜欢涉猎广泛的。
