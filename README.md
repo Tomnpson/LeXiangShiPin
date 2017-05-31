@@ -49,7 +49,9 @@
 因为前面说过我是这类产品的资深用户，我本人相当熟悉这类产品的用户任务流程部分，所以这款产品设计主要是站在我的视角上进行的设计，因为这款产品的设计目的并非增加日活量，所以这款产品不会加入评论功能，因为产品不需要用户评论，那自然谈不上让用户注册登录了。这点之后还会说。整个产品的设计思路大体可以用一张图来表示。
 
 <p align="center">
-    ![设计流程)](https://github.com/Tomnpson/LeXiangShiPin/raw/master/Screenshots/4.png)
+<a>
+    <img alt="设计流程" src="[设计流程)](https://github.com/Tomnpson/LeXiangShiPin/raw/master/Screenshots/4.png">
+</a>
 </p>
 
 ## 绘制故事地图
@@ -67,7 +69,9 @@
 终于，我们可以画出故事地图了，这张图需要足够简单、足够直接，需要包括用户，包括用户参与产品的路径图，以及用户参与进产品之后的行为表现。我想我们在经过上面的分析后，完全可以毫不费力画出这张图了。
 
 <p align="center">
-    ![设计流程)](https://github.com/Tomnpson/LeXiangShiPin/raw/master/Screenshots/5.png)
+<a>
+    <img alt="故事地图" src="[设计流程)](https://github.com/Tomnpson/LeXiangShiPin/raw/master/Screenshots/5.png">
+</a>
 </p>
 
 可以看见，这张图相当简单，直接，了当，也很显目。这张图会贯穿我们的产品设计始终，其中的信息间的流转，我们会在后续继续进行表述。
