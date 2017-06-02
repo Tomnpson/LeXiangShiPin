@@ -15,7 +15,7 @@
 </p>
 <p align="center">
   <a href="http://note.youdao.com/noteshare?id=e789fabb52d671e0b2c539a182885232">
-    <img alt="视频应用设计从需求立项到产品设计思考" src="https://github.com/Tomnpson/LeXiangShiPin/raw/master/Screenshots/3.png">
+    <img alt="视频应用设计从需求立项到产品设计思考" src="https://github.com/Tomnpson/LeXiangShiPin/raw/master/Screenshots/7.png">
   </a>
 </p>
 
